@@ -7,3 +7,8 @@
     left: 0;
     top: 0;
 } */
+@media screen and (max-width:576px) {
+    .carousel-item.active {
+        height: 300px!important;
+    }
+}
